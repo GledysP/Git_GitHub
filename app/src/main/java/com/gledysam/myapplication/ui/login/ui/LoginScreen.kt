@@ -99,7 +99,7 @@ fun LoginButton(loginEnable: Boolean, onLoginSelected: () -> Unit) {
 @Composable
 fun ForgotPassword(modifier: Modifier) {
     Text(
-        text = "Olvidaste la contraseña?",
+        text = "Olvidaste la contraseña y estamos trabajando con git?",
         modifier = modifier.clickable { },
         fontSize = 12.sp,
         fontWeight = FontWeight.Bold,

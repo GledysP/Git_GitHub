@@ -145,13 +145,9 @@ fun EmailField(email: String, onTextFielChanged: (String) -> Unit) {
 
     )
 }
-//esto es un comentario para iniciar curso con git
-//en un proyecto real
-//git init
-//git status
-//git commit -m ""
-//git log
 
+//Se comienza con Git en el proyecto
+//curso de git y github
 @Composable
 fun HeaderImage(modifier: Modifier) {
     Image(

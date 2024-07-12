@@ -92,7 +92,7 @@ fun LoginButton(loginEnable: Boolean, onLoginSelected: () -> Unit) {
             disabledContentColor = Color.White
         ), enabled = loginEnable
     ) {
-        Text(text = "Iniciar sesión")
+        Text(text = "Iniciar sesión Gledys Palma")
     }
 }
 
